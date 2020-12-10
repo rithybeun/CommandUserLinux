@@ -1,1 +1,1 @@
-# CommandUserLinux
+#chmod +x CreateUserWithGroup.sh 
